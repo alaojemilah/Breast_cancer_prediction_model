@@ -31,7 +31,7 @@ This is a *classification problem* and the output belongs to one of two categori
 | Logistic Regression | max_iter=1000 | *97.36%* |
 | Support Vector Machine | C=800, kernel=linear, random_state=42 | *97.36%* |
 | Decision Tree | max_depth=4, random_state=50 | 93.85% |
-| Pipeline (Linear Regression) | — | R² Score: 0.7656, MSE: 0.05 |
+| Pipeline (Linear Regression) | - | R² Score: 0.7656, MSE: 0.05 |
 
 ## Best Model
 Both *Logistic Regression* and *Support Vector Machine* achieved the highest accuracy of *97.36%*, making them the strongest performers for this classification task.
