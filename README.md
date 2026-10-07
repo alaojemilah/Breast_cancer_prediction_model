@@ -3,9 +3,9 @@
 ## Problem Statement
 The goal of this project is to predict whether a patient has breast cancer or not using the Breast Cancer dataset.
 
-This is a *classification problem* — the output belongs to one of two categories:
-- *M (Malignant)* = 0 — Cancerous
-- *B (Benign)* = 1 — Not Cancerous
+This is a *classification problem* and the output belongs to one of two categories:
+- *M (Malignant)* = 0 (Cancerous)
+- *B (Benign)* = 1 (Not Cancerous)
 
 ## Dataset
 - *Source:* Breast Cancer dataset
